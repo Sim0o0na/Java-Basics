@@ -19,7 +19,6 @@ public class IndexofLetters {
 
         for (int i = 0; i<sequence.length; i++){
             System.out.println(sequence[i]+" -> "+map.get(sequence[i]));
-
         }
     }
 }
